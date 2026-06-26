@@ -5,6 +5,7 @@ public class kuku {
 				System.out.print( i*j + "\t");
 			}
 			System.out.println();
+			System.out.println();
 		}
 	}
 
